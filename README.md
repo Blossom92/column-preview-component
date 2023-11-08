@@ -33,7 +33,7 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@Blossom92cd](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Blossom92](https://www.frontendmentor.io/profile/Blossom92)
 - Twitter - [@webDeva222](https://www.x.com/webdeva222)
 
 
